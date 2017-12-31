@@ -57,12 +57,23 @@ Vue.component('grid', {
     }
   })
 
-  new Vue({
+Vue.component('list', {
+    template: '#list-template',
+    props: {
+      list: Array,
+      name: String
+    }
+})
+
+new Vue({
     el: '#app',
     data: {
         searchQuery: '',
         gridColumns: ['point', 'zones', 'effects', 'indications', 'contraindications'],
         gridColumnNames: ['point', 'zones', 'effets', 'indications', 'contre-indications'],
-        gridData: points
+        gridData: points,
+        zonesList: zonesList,
+        effectsList: effectsList,
+        indicationsList: indicationsList,
     }
 })

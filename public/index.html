@@ -15,6 +15,9 @@
         <form id="search">
             Search <input name="query" v-model="searchQuery">
         </form>
+        <list :name="'Zones'" :list="zonesList"></list>
+        <list :name="'Effects'" :list="effectsList"></list>
+        <list :name="'Indications'" :list="indicationsList"></list>
         <grid
             :data="gridData"
             :columns="gridColumns"
@@ -22,6 +25,12 @@
             :filter-key="searchQuery">
         </grid>
     </div>
+    <script type="text/x-template" id="list-template">
+        <select>
+            <option value="" selected disabled>{{name}}</option>
+            <option v-for="item in list" :value="item">{{item}}</option>
+        </select>
+    </script>
     <script type="text/x-template" id="grid-template">
         <table>
           <thead>
