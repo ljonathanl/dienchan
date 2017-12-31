@@ -1,0 +1,47 @@
+<!doctype html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://unpkg.com/vue"></script>
+    <script src="/data.js"></script>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+    <div id="app">
+        <form id="search">
+            Search <input name="query" v-model="searchQuery">
+        </form>
+        <grid
+            :data="gridData"
+            :columns="gridColumns"
+            :names="gridColumnNames"
+            :filter-key="searchQuery">
+        </grid>
+    </div>
+    <script type="text/x-template" id="grid-template">
+        <table>
+          <thead>
+            <tr>
+              <th v-for="(key, index) in columns"
+                @click="sortBy(key)"
+                :class="{ active: sortKey == key }">
+                {{ names[index] | capitalize }}
+                <span class="arrow" :class="sortOrders[key] > 0 ? 'asc' : 'dsc'">
+                </span>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr v-for="(entry, index) in filteredData" :class="[index % 2 ? 'grey' : 'white']" :title="entry.notes">
+              <td v-for="key in columns" v-html="emphasize(entry[key])"></td>
+            </tr>
+          </tbody>
+        </table>
+      </script>
+    <script src="/app.js"></script>
+</body>
+</html>
