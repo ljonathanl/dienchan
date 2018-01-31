@@ -123,7 +123,7 @@ var points = [
     "indications": "Sensations inconfortable au niveau du sternum\nDouleurs thoraciques particulièrement T9/T10\nAffections dentaires\nÉpilepsie\nDyspnée\nFatigue cardiaque\nAsthme\nDouleur dans la région pariétale",
     "contraindications": "",
     "coordinates": "",
-    "notes": "Soulage la pression sur la cage thoracique -> libre circulation de l'énergie du ciel, géré par le méridien, poumon\nSport : canalisation, gestion de l'air dans les poumons pour bien respirer\n Le Thymus met en place le système immunitaire chez l'enfant (->15 ans) en assurant la maturation des lymphocytes ;(énergie de la terre : gérée par le méridien estomac);"
+    "notes": "Soulage la pression sur la cage thoracique -> libre circulation de l'énergie du ciel, géré par le méridien, poumon\nSport : canalisation, gestion de l'air dans les poumons pour bien respirer\nLe Thymus met en place le système immunitaire chez l'enfant (->15 ans) en assurant la maturation des lymphocytes ;(énergie de la terre : gérée par le méridien estomac);"
   },
   {
     "point": "491",
@@ -150,7 +150,7 @@ var points = [
     "indications": "Transpiration excessive ou insuffisante\nMaux de tête\nMaux d'estomac\nChair de poule\nPerturbations du rythme cardiaque\nHypertension\nParalysie faciale\nAffections de la peau\nAffections des muqueuses\nHoquet\nAffections du nerf trijumeau\nDémangeaisons dans la région du ventre\nDémangeaisons dans la région des cuisses\nDémangeaisons dans la région des pieds\nSyndrome d'abstinence\nMigraines\nEczéma\nInflammations vaginales\nInflammations du col de l'utérus\nInfections vaginales\nInfections du col de l'utérus\nLeucorrhées\nAsthme\nDyspnée\nDouleur du pouce\nSaignement de nez\nUlcère gastrique\nOppression thoracique\nPoitrine lourde\nDifficultés respiratoires\nSciatique\nNausées\nVomissement\nGoitre\nFièvre\nToux\nNez bouché\nUlcère du bulbe du duodénum\nUlcère du duodénum\nRhume\nEtats congestifs\nInflammation de la gorge\nInflammation des amygdales\nContracture des muscles abdominaux\nManque de transpiration des mains /Mains moites",
     "contraindications": "",
     "coordinates": "",
-    "notes": "Régule la sécrétion des hormones\nRégule les points des zones réflexes poumons, estomac, foie\nRégule les liquides (règles, urines, transpiration)\nRégule la tension musculaire du corps\n\nRéprésente le tri-jumeau\nEfficace contre la douleur de bouche, mobilité du visage.\n\nLe 61 est situé au niveau de la zone réflexe du hiatus (fin oesophage) : clapet.\n\nLe point 61 est sur le visage, pas sur le nez.\nDétecteur sur le sommet de la ride du nez, vertical au visage. Descendre, dès qu'on touche le visage, on est sur le 61.;"
+    "notes": "Régule la sécrétion des hormones\nRégule les points des zones réflexes poumons, estomac, foie\nRégule les liquides (règles, urines, transpiration)\nRégule la tension musculaire du corps\nRéprésente le tri-jumeau\nEfficace contre la douleur de bouche, mobilité du visage.\nLe 61 est situé au niveau de la zone réflexe du hiatus (fin oesophage) : clapet.\nLe point 61 est sur le visage, pas sur le nez.\nDétecteur sur le sommet de la ride du nez, vertical au visage. Descendre, dès qu'on touche le visage, on est sur le 61.;"
   },
   {
     "point": "43",
@@ -168,7 +168,7 @@ var points = [
     "indications": "Douleur dans les os\nDouleurs lombaires\nFroid dans les jambes\nDouleurs dans les jambes\nDouleurs dentaires\nDouleurs dans l'estomac\nAsthme (provoqué par une affection des reins)\nAffection oculaire\nNévralgie\nSpasmophilie\nConstipation\nTremblements\nMaladie de Parkinson\nAsthénie générale\nAffection de la fonction séminale\nImpuissance\nApathie\nGastrite\nDigestion laborieuse\nOtite\nSurdité (provoquée par une affection des reins)\nNéphrite\nColiques néphrétiques\nIncontinence\nÉnurésie",
     "contraindications": "",
     "coordinates": "",
-    "notes": "Douleur osseuse : 45, 300, 0\nRenforcer l'assouplissement musculaire : 45, 16, 3, 61\n\nNerf cranien : mobilité de l'oeil\n\n45 seul : libérer la sensation de douleur de ``reins``, contracture musculaire, lumbago : 30 secondes pour un lumbago"
+    "notes": "Douleur osseuse : 45, 300, 0\nRenforcer l'assouplissement musculaire : 45, 16, 3, 61\nNerf cranien : mobilité de l'oeil\n45 seul : libérer la sensation de douleur de ``reins``, contracture musculaire, lumbago : 30 secondes pour un lumbago"
   },
   {
     "point": "1",
@@ -195,7 +195,7 @@ var points = [
     "indications": "Douleurs dans le bas des lombaires\nProblème lié au vagin\nProblème lié au prépuce",
     "contraindications": "",
     "coordinates": "",
-    "notes": "Charnière fin lombaires, début sacrum : inervation CV\nchez l'homme : bout de l'uretre. \nchez l'enfant : décaloter (avec la narine)\n\nPincer le nez pour le trouver."
+    "notes": "Charnière fin lombaires, début sacrum : inervation CV\nchez l'homme : bout de l'uretre. \nchez l'enfant : décaloter (avec la narine)\nPincer le nez pour le trouver."
   },
   {
     "point": "5",
@@ -204,7 +204,7 @@ var points = [
     "indications": "Douleurs de l'estomac\nDouleurs sciatique dans la fesse\nGoitre bénin\nBoutons sur les fesses\nInflammation du col de l'utérus\nParalysie faciale",
     "contraindications": "",
     "coordinates": "",
-    "notes": "Nerf facial : mobilité du visage\nexemple : paupière qui bouge d'un côté : 124, 34, 26, 5 + formule Yin / Yang \ncirculation de l'énergie gauche/droite ou hat/bas\nDébloquage paralysie faciale\nAnti-inflammatoire dans la zone réflexe dans laquelle il se trouve (fesse, nerf sciatique, foie, estomac)\nSensation tuyau auditif : douleur otite moyenne\n\nPlacement : milieu de l'arrondi de la narine : milieu fesses Mr. Yang\nAplatir la narine, aller au milieu. Quand la narine est re en 3D on a l'impression que c'est plus bas que le milieu mais non, c'est bien placé"
+    "notes": "Nerf facial : mobilité du visage\nexemple : paupière qui bouge d'un côté : 124, 34, 26, 5 + formule Yin / Yang \ncirculation de l'énergie gauche/droite ou hat/bas\nDébloquage paralysie faciale\nAnti-inflammatoire dans la zone réflexe dans laquelle il se trouve (fesse, nerf sciatique, foie, estomac)\nSensation tuyau auditif : douleur otite moyenne\nPlacement : milieu de l'arrondi de la narine : milieu fesses Mr. Yang\nAplatir la narine, aller au milieu. Quand la narine est re en 3D on a l'impression que c'est plus bas que le milieu mais non, c'est bien placé"
   },
   {
     "point": "74",
@@ -213,7 +213,7 @@ var points = [
     "indications": "Maux de tête dus à la digestion\nParalysie des membres inférieurs\nHoquet\nProblèmes liés à l’oreille interne\nAcouphènes\nMal de mer\nVertiges",
     "contraindications": "",
     "coordinates": "",
-    "notes": "124, 34, 26, 74\nOreille interne de Mme Yin (le V au dessus du 26) et de Mr. Yang\nReins : 300, 0, 45, 64 (64  : représentant de la zone réflexe des cuisses de Mr. Yang)\nRetour veineux (jambes lourdes), hématomes\navec 74, 156, 1 : flux des règles\n\nattention, la base interne n'est pas forcément au même endroit (même hauteur) que la base externe : 630 pas même hauteur que 19\n74, sur le visage, collé à la ride de la narine et au milieu (630/61) : aller le chercher.;"
+    "notes": "124, 34, 26, 74\nOreille interne de Mme Yin (le V au dessus du 26) et de Mr. Yang\nReins : 300, 0, 45, 64 (64  : représentant de la zone réflexe des cuisses de Mr. Yang)\nRetour veineux (jambes lourdes), hématomes\navec 74, 156, 1 : flux des règles\nattention, la base interne n'est pas forcément au même endroit (même hauteur) que la base externe : 630 pas même hauteur que 19\n74, sur le visage, collé à la ride de la narine et au milieu (630/61) : aller le chercher.;"
   },
   {
     "point": "64",
@@ -240,7 +240,7 @@ var points = [
     "indications": "Sinusite\nFoulures\nEntorse du pied et de la main\nTendinite des pieds et des mains\nToux allergique\nInsomnie\nÉpilepsie\nDouleurs des côtes\nDouleurs des cervicales\nArthrose\nAltération des veines\nAffection du nerf trijumeau\nParalysies faciales\nGoitre\nTorticolis\nDouleurs au sommet de la tête\nHypotension\nAllergie\nHémorragie\nRègles abondantes\nRhumatismes\nEczéma\nTranspiration des pieds et des mains\nDigestion lente\nIndigestion\nBallonnements\nHémorroïdes\nProblèmes hépatiques\nVésicule biliaire paresseuse\nCalculs biliaires\nVentre gonflé\nNez bouché\nProblèmes visuels\nMauvaise vue\nCholestérol",
     "contraindications": "hypertension",
     "coordinates": "",
-    "notes": "Détoxification du corps\n50 : apporte beaucoup de carburant au corps (+127, 37)\n\nTRIANGLE HEPATIQUE : 50, 41, 233\nLe 41 et 50 sont alignés sur le 630.\n\nRégule la colère (foie), élasticité musculaire (foie), yeux (triangle hépatique)."
+    "notes": "Détoxification du corps\n50 : apporte beaucoup de carburant au corps (+127, 37)\nTRIANGLE HEPATIQUE : 50, 41, 233\nLe 41 et 50 sont alignés sur le 630.\nRégule la colère (foie), élasticité musculaire (foie), yeux (triangle hépatique)."
   },
   {
     "point": "41",
@@ -267,7 +267,7 @@ var points = [
     "indications": "État asthénique\nRègles abondantes\nHémorragie stomacale (associé au 16, 61 et 50)\nHémorragies internes\nCorps douloureux\nBras et jambes lourdes\nInsensibilité des bras et des jambes\nFourmillements\nFatigue nerveuse\nFatigue physique\nDigestion laborieuse\nMucosités abondantes dans la gorge (ex : glaires)\nDouleurs dans la zone de la rate\nTroubles urinaires (énurésie, incontinence)\nRétention d'eau, oedème\nToux\nAsthme\nTête lourde\nBras lourd\nJambes lourdes\nParalysie faciale\nNévralgies faciales\nAnémie\nFourmillements\nPicotements\nSensation de raideur cutanée",
     "contraindications": "",
     "coordinates": "",
-    "notes": "Rate en terme de fonction et énergétique.\nSystème de défense immunitaire, sanguin, lymphatique\nNettoie le corps de ses déchets\n37, 74 : retour veineux renforcé\n\n37 aligné à 74\n\nLES NETTOYEURS : (émonctoires)\nFoie : 50, 41, 233\nReins : 290\nRate : 37\nCoeur : 60\nPoumons : 3 \nGros Intestin : 38\nVessie : 87"
+    "notes": "Rate en terme de fonction et énergétique.\nSystème de défense immunitaire, sanguin, lymphatique\nNettoie le corps de ses déchets\n37, 74 : retour veineux renforcé\n37 aligné à 74\nLES NETTOYEURS : (émonctoires)\nFoie : 50, 41, 233\nReins : 290\nRate : 37\nCoeur : 60\nPoumons : 3 \nGros Intestin : 38\nVessie : 87"
   },
   {
     "point": "132",
@@ -276,7 +276,7 @@ var points = [
     "indications": "Toux grasse\nAsthme\nDysenterie\nDiarrhée",
     "contraindications": "",
     "coordinates": "",
-    "notes": "Fait circuler l'énergie dans le buste de droite à gauche ou gauche à droite (circulation)\nFormule de régulation Yin Yang : 132, 290 (triple réchauffeur qui fait circuler l'énergie de haut en bas) + poins d'accroche haut et bas\n\n132 : travail sur l'échange gazeux entre le sang et les poumons : nourrir le corps.\n\nCoin de l'oeil externe, à l'intérieur (côté blanc) : se mettre face au blanc de l'oeil, à 45°.;"
+    "notes": "Fait circuler l'énergie dans le buste de droite à gauche ou gauche à droite (circulation)\nFormule de régulation Yin Yang : 132, 290 (triple réchauffeur qui fait circuler l'énergie de haut en bas) + poins d'accroche haut et bas\n132 : travail sur l'échange gazeux entre le sang et les poumons : nourrir le corps.\nCoin de l'oeil externe, à l'intérieur (côté blanc) : se mettre face au blanc de l'oeil, à 45°.;"
   },
   {
     "point": "3",
@@ -285,7 +285,7 @@ var points = [
     "indications": "Insomnie\nContractures et spasmes musculaires\nHypertension\nRhume accompagné de fièvre\nMaux de tête\nDouleurs dans la poitrine suite à un coup\nAngine de poitrine\nAttaque cardiaque (avec le 269-)\nParalysie faciale\nDouleurs aux niveau des tempes\nAsthme\nToux\nRespiration chaude\nMaux de dents\nSinusite\nNez bouché\nAffections urinaires (Urine trop foncée et chaude)\nGorge enflammée\nConstipation\nAffections urinaires (insuffisance rénale)\nTranspiration excessive des mains\nProblèmes cutanés\nVisage enflé\nFaiblesse de la vision\nYeux rouges\nYeux qui ``brûlent``\nTabagisme",
     "contraindications": "Hypotension (faiblement)",
     "coordinates": "",
-    "notes": "poumons en terme de méridien énergétique + quelques actions sur le fonctionnel\nFonction système respiratoire\nProblème de peau, sinus, sphère nasale, crise d'asthme\n\n16, 3, 61 : régule et assouplit les liquides (+yeux)\n\nà droite : assèche l'oeil\nà gauche : humidifie l'oeil\n\nFormule amaigrissement, régime, conscience du nouveau corps :\n124/34 (régule le système nerveux), 103 (cerveau), 37 (mémoire), 3 (enveloppe corporelle)\n\n\nplacement : jonction ligne du 61, milieu de l'iris"
+    "notes": "poumons en terme de méridien énergétique + quelques actions sur le fonctionnel\nFonction système respiratoire\nProblème de peau, sinus, sphère nasale, crise d'asthme\n16, 3, 61 : régule et assouplit les liquides (+yeux)\nà droite : assèche l'oeil\nà gauche : humidifie l'oeil\nFormule amaigrissement, régime, conscience du nouveau corps :\n124/34 (régule le système nerveux), 103 (cerveau), 37 (mémoire), 3 (enveloppe corporelle)\nplacement : jonction ligne du 61, milieu de l'iris"
   },
   {
     "point": "19",
@@ -294,7 +294,7 @@ var points = [
     "indications": "Problèmes cardiaques\nProblèmes articulaires\nIntoxication médicamenteuse\nDrogue\nTabagisme\nCrise de hoquet\nImpuissance\nNez bouché\nDouleurs autour de l'épaule\nPression artérielle faible\nÉvanouissement\nNoyade, réanimation\nSuffocation, étouffement suite à l'absorption d'objet\nMiction nocturne\nIncontinence\nDyspnée\nAsthme\nÉpilepsie\nRespiration difficile ou crises d'asthme\nSomnolence\nManque d'énergie\nDépression nerveuse\nFaiblesse sexuelle\nDouleurs stomacales\nColite\nConstipation\nHémorroïdes\nProblèmes de dilatation du col de l'utérus au moment de l'accouchement\nNausées\nVomissement\nDouleurs lombaires\nDétoxifiant (élimine les poisons comme la drogue par exemple)",
     "contraindications": "Hypertension\nFemmes  enceintes  (sauf  au moment de l'accouchement)",
     "coordinates": "",
-    "notes": "point du système nerveux orthosympathique le plus hypertenseur\nMise en place de l'action par l'OS (orthosympathique), mise en état d'alerte de l'organisme : contraction musculaire.\n\nexemple : accouchement, entraine la contraction de l'utérus. Attention si le col n'est pas dilaté, ça ne sert à rien.\nFormule dilatation du col de l'utérus : 61, 0, 45\nRetour veineux : 19, 74. \n\nAugmente les sécrétions, enlève les kystes, boutons ... \nSort les choses du corps\n\nle 62 remplace le 19 (angoisse) pour les femmes enceintes.\n\nFormule pour remonter l'énergie dans le corps : 22, 127, 19, 1\n\nPlacement : venir à plat sous le nez, mettre le détecteur à 45° et appuyer fort. Demander au client quand il faut arrêter."
+    "notes": "point du système nerveux orthosympathique le plus hypertenseur\nMise en place de l'action par l'OS (orthosympathique), mise en état d'alerte de l'organisme : contraction musculaire.\nexemple : accouchement, entraine la contraction de l'utérus. Attention si le col n'est pas dilaté, ça ne sert à rien.\nFormule dilatation du col de l'utérus : 61, 0, 45\nRetour veineux : 19, 74. \nAugmente les sécrétions, enlève les kystes, boutons ... \nSort les choses du corps\nle 62 remplace le 19 (angoisse) pour les femmes enceintes.\nFormule pour remonter l'énergie dans le corps : 22, 127, 19, 1\nPlacement : venir à plat sous le nez, mettre le détecteur à 45° et appuyer fort. Demander au client quand il faut arrêter."
   },
   {
     "point": "143",
@@ -303,7 +303,7 @@ var points = [
     "indications": "Hypertension\nDouleurs au coccyx\nDorsalgies\nSciatique\nHémorroïdes\nConstipation\nFièvre sans transpiration\nBouffées de chaleur",
     "contraindications": "Hypotension",
     "coordinates": "",
-    "notes": "Son opposé : 127 : le point le plus yang.\n\nC'est le point le plus Yin : fait tout descendre : \nchaleur\ndouleur\nconstipation\ntension arterielle\nbouffée de chaleur\n\nYIN : fait tout rétracter, donc propriété anti kyste.\nIndiqué pour les fibromes\n\n143, 3 : problèmes de peau, acné\n\n19, 143 : personne alitée, constipée\n\n143, 197, 3 : hyperactivité\n\n143 seul et stimulé longtemps : fait baisser la température"
+    "notes": "Son opposé : 127 : le point le plus yang.\nC'est le point le plus Yin : fait tout descendre : \nchaleur\ndouleur\nconstipation\ntension arterielle\nbouffée de chaleur\nYIN : fait tout rétracter, donc propriété anti kyste.\nIndiqué pour les fibromes\n143, 3 : problèmes de peau, acné\n19, 143 : personne alitée, constipée\n143, 197, 3 : hyperactivité\n143 seul et stimulé longtemps : fait baisser la température"
   },
   {
     "point": "63",
@@ -312,7 +312,7 @@ var points = [
     "indications": "Frigidité\nImpuissance\nÉrection difficile\nBaisse de la libido\nÉtourdissement\nVertiges\nÉpilepsie\nTremblements nerveux\nDouleurs de l'estomac\nBouche sèche\nBouche amère\nHypotension\nSciatique\nDouleurs menstruelles\nRègles irrégulières\nPathologies de l'utérus\nPathologies du vagin\nManque de sécrétions vaginales\nAffection du nerf trijumeau\nDouleurs à la colonne vertébrale\nDiabète\nMal de mer",
     "contraindications": "Femme  enceinte  (sauf  si  c’est  le moment de l’accouchement)",
     "coordinates": "",
-    "notes": "action sur le système digestif : sécrétion ++ de suc pancréatique. Bon pour les problèmes digestifs\n\n37, 39, 63 : terre\nrenforce le travail de la rate au niveau énergétique\n\nFemme enceinte : remplacer par le 103\n\nPlacement : au milieu du sillon nasolabial"
+    "notes": "action sur le système digestif : sécrétion ++ de suc pancréatique. Bon pour les problèmes digestifs\n37, 39, 63 : terre\nrenforce le travail de la rate au niveau énergétique\nFemme enceinte : remplacer par le 103\nPlacement : au milieu du sillon nasolabial"
   },
   {
     "point": "7",
@@ -321,7 +321,7 @@ var points = [
     "indications": "Diabète\nAllergies nasales\nProblèmes  liés  aux  règles  (trop  abondantes,  irrégulières, douloureuses, trop longues)\nInflammations\nLeucorrhées\nProblèmes aux ovaires (ex : kystes)\nProblèmes à la prostate\nDouleurs des cuisses\nCystite\nFaiblesse sexuelle\nSinusite\nTroubles digestifs\nDouleurs intestinales\nGaz dans le colon (aérocolie)\nColite\nBlocage de la langue\nGoitre\nFécondité difficile\nOtite\nDifficultés pour parler",
     "contraindications": "Femme  enceinte  (sauf  si  c’est  le moment de l’accouchement)",
     "coordinates": "",
-    "notes": "Fonction digestive du pancréas\naction sur la production hormonale des gonades : 7 (fonction), 156\n\npaire de nerf cranien de l'hypoglosse (mouvement de la langue)\n\nFormule élocution : 124, 34, 26, 7 \n5, 64 : facial + glossopharyngien : sensibilité de la langue\n\n113 : voile du palais\n\n61 : sensibilité + mobilité de la bouche\n\n7, 17, 41 : allergie\nsi allergie au niveau du nez : nez de penfield puis formule.\n\n38, 7, 104 : libère les gaz.\n\nPlacement : le plus haut du trou de la narine quand on regarde par en dessous, au niveau des paravertébraux\nAttention, le 7 dépend de la taille du sillon saolabial donc les 7 ne sont pas toujours au même endroit (au bord du sillon ou très espacés"
+    "notes": "Fonction digestive du pancréas\naction sur la production hormonale des gonades : 7 (fonction), 156\npaire de nerf cranien de l'hypoglosse (mouvement de la langue)\nFormule élocution : 124, 34, 26, 7 \n5, 64 : facial + glossopharyngien : sensibilité de la langue\n113 : voile du palais\n61 : sensibilité + mobilité de la bouche\n7, 17, 41 : allergie\nsi allergie au niveau du nez : nez de penfield puis formule.\n38, 7, 104 : libère les gaz.\nPlacement : le plus haut du trou de la narine quand on regarde par en dessous, au niveau des paravertébraux\nAttention, le 7 dépend de la taille du sillon saolabial donc les 7 ne sont pas toujours au même endroit (au bord du sillon ou très espacés"
   },
   {
     "point": "113",
@@ -330,7 +330,7 @@ var points = [
     "indications": "Douleurs ovariennes\nDouleurs prostatiques\nDouleurs aux cuisses\nIndigestion\nDiabète\nDouleurs pancréatiques\nSciatique\nAsthme\nColite\nGoitre",
     "contraindications": "",
     "coordinates": "",
-    "notes": "NC10 : représentant du nerf vague ou parasympathique : gère l'inervation du système digestif qui fonctionne en parasympathique\n124, 34, 26, 113 : aide à digérer\nrenforce le système immunitaire : + 37.\n\n113 à tenter contre le ronflement\n\nATTENTION ne pas stimuler toute la ligne en cas de maladie auto-immune\nformule yin yang : inverse les tendances : à faire en cas de maladie auto-immune (sclérose en plaques, diabète de type 1, lupus, les thyroïdites auto-immunes, la polyarthrite rhumatoïde, la spondylarthrite ankylosante, le syndrome de Goujerot-Sjögren, la maladie de Crohn...)"
+    "notes": "NC10 : représentant du nerf vague ou parasympathique : gère l'inervation du système digestif qui fonctionne en parasympathique\n124, 34, 26, 113 : aide à digérer\nrenforce le système immunitaire : + 37.\n113 à tenter contre le ronflement\nATTENTION ne pas stimuler toute la ligne en cas de maladie auto-immune\nformule yin yang : inverse les tendances : à faire en cas de maladie auto-immune (sclérose en plaques, diabète de type 1, lupus, les thyroïdites auto-immunes, la polyarthrite rhumatoïde, la spondylarthrite ankylosante, le syndrome de Goujerot-Sjögren, la maladie de Crohn...)"
   },
   {
     "point": "17",
@@ -339,7 +339,7 @@ var points = [
     "indications": "État inflammatoire\nArthrose\nDouleur dans la région des cuisses\nDouleurs dans la région lombaire\nAllergies\nÉtat infectieux\nFrilosité\nColite\nColite spasmodique\nDiarrhée, dysenterie\nNez qui coule\nToux avec expectorations\nTranspiration abondante\nRègles abondantes\nHémorragies utérines\nProblèmes gynécologiques\nNévralgie\nRhumatisme, arthrite\nAsthme\nFaiblesse des reins due aux graisses\nFatigue, asthénie\nHypotension\nSurmenage\nStress\nApathie, indolence\nPrurit\nEczéma\nBrûlure au premier degré\nZona",
     "contraindications": "Infections, tumeur à l’estomac",
     "coordinates": "",
-    "notes": "Zone des surrénales (du point 17 au 6, autour des commissures des lèvres) : dynamique sexuelle : 17, 43\n\nanti-inflammatoire : 17, 38\n\n17 : adrénaline : sécrétion des surrénales qui donnent le coup de fouet du matin\n\nanti-stress : 103, 26, 17\n\nTout problème inflammatoire + allergie : 17, 7, 41\n\nATTENTION peut provoquer encore plus de saignement sur l'estomac\n\nPlacement : ouvrir la bouche, commissure interne de la lèvre, on monte tout droit, jonction avec le 63"
+    "notes": "Zone des surrénales (du point 17 au 6, autour des commissures des lèvres) : dynamique sexuelle : 17, 43\nanti-inflammatoire : 17, 38\n17 : adrénaline : sécrétion des surrénales qui donnent le coup de fouet du matin\nanti-stress : 103, 26, 17\nTout problème inflammatoire + allergie : 17, 7, 41\nATTENTION peut provoquer encore plus de saignement sur l'estomac\nPlacement : ouvrir la bouche, commissure interne de la lèvre, on monte tout droit, jonction avec le 63"
   },
   {
     "point": "38",
@@ -348,7 +348,7 @@ var points = [
     "indications": "Douleurs au pouce\nDouleur aux genoux\nDouleurs sur le bord des côtes\nDouleurs aux cuisses\nInflammation cutanée (avec ou sans infection)\nMaladies de peau (furoncle, abcès...)\nMiction difficile\nArthrose\nSécheresse vaginale\nOtite\nSinusite\nGingivite\nConstipation\nDifficulté à évacuer les gaz intestinaux suite à une opération (ajouter le 19)\nFièvre\nDouleurs lombaires",
     "contraindications": "",
     "coordinates": "",
-    "notes": "Représentant du gros intestin\n\nPoint le plus anti-inflammatoire naturel : détoxification du corps\nlubrification des articulations\n\néliminer les gaz : 38, 104, 7\n\n+3 : peau / tristesse (élément métal poumon instestin)\n\nPlacement : sur la ligne du 63, à la rencontre de la ride du sourire"
+    "notes": "Représentant du gros intestin\nPoint le plus anti-inflammatoire naturel : détoxification du corps\nlubrification des articulations\néliminer les gaz : 38, 104, 7\n+3 : peau / tristesse (élément métal poumon instestin)\nPlacement : sur la ligne du 63, à la rencontre de la ride du sourire"
   },
   {
     "point": "53",
@@ -357,7 +357,7 @@ var points = [
     "indications": "Rétention d’eau",
     "contraindications": "",
     "coordinates": "",
-    "notes": "cf formule de point rétention d'eau\nsyndrome de gros bras\ncellulite\n\nPoint qui accumule l'eau et qui assèche l'intérieur du corps (127 encore plus yang)\nSitué sur IG donc action feu.\n\nRarement utilisé seul.\n\nPlacement : jonction peau visage, peau lèvre (plus bas que sur le dessin)"
+    "notes": "cf formule de point rétention d'eau\nsyndrome de gros bras\ncellulite\nPoint qui accumule l'eau et qui assèche l'intérieur du corps (127 encore plus yang)\nSitué sur IG donc action feu.\nRarement utilisé seul.\nPlacement : jonction peau visage, peau lèvre (plus bas que sur le dessin)"
   },
   {
     "point": "29",
@@ -366,7 +366,7 @@ var points = [
     "indications": "Douleurs épidermiques\nDouleurs de l'annulaire\nSciatique\nDouleurs dans le pli du genou\nHypertension\nMictions difficiles\nUrines troubles et foncées\nParalysie faciale",
     "contraindications": "",
     "coordinates": "",
-    "notes": "fonction rénale : filtre le sang pour sortir les déchets (comme le 290)\n29, (156), 85, 87 : système urinaire : je filtre et j'élimine\n\nPoint qui agit le mieux pour la zone réflexe du rein.\n\nAgit sur la qualité de filtrage\n\nPlacement : le chercher depuis la commissure des lèvres vers l'extérieur. On fixe la zone avec un doigt au dessus et au dessous."
+    "notes": "fonction rénale : filtre le sang pour sortir les déchets (comme le 290)\n29, (156), 85, 87 : système urinaire : je filtre et j'élimine\nPoint qui agit le mieux pour la zone réflexe du rein.\nAgit sur la qualité de filtrage\nPlacement : le chercher depuis la commissure des lèvres vers l'extérieur. On fixe la zone avec un doigt au dessus et au dessous."
   },
   {
     "point": "222",
@@ -375,7 +375,7 @@ var points = [
     "indications": "Affections du nerf trijumeau\nAffections du pli du genou\nDouleurs autour du nombril\nDiarrhée\nAffections des reins\nDouleurs à l'auriculaire\nMal au dos",
     "contraindications": "",
     "coordinates": "",
-    "notes": "ce point est une ``aide`` pour l'action des autres points. \n\nColite néphrétique (douleurs aux reins) : quantité de filtrage, associé au 29.\n\nAide à éliminer l'eau, donc fait baisser la pression arterielle : 29, 85, 156, 87, 222\n\nPlacement : une fois qu'on a le 29, on continue jusqu'au prochain aïe : 222. attention le 222 ne dépend pas du 38 (222, 37, 38 pas forcément alignés)"
+    "notes": "ce point est une ``aide`` pour l'action des autres points. \nColite néphrétique (douleurs aux reins) : quantité de filtrage, associé au 29.\nAide à éliminer l'eau, donc fait baisser la pression arterielle : 29, 85, 156, 87, 222\nPlacement : une fois qu'on a le 29, on continue jusqu'au prochain aïe : 222. attention le 222 ne dépend pas du 38 (222, 37, 38 pas forcément alignés)"
   },
   {
     "point": "511",
@@ -384,7 +384,7 @@ var points = [
     "indications": "Torticolis\nDouleurs dans la cuisse",
     "contraindications": "",
     "coordinates": "",
-    "notes": "Renforce l'action du 156 en terme fonctionnel, sur le nerf crânien spinal\ncf 156\n``aide``\n\nPlacement : 1 doigt sur la comissure des lèvres, un doigt sur le 17, on se place au milieu et on remonte un peu au dessus"
+    "notes": "Renforce l'action du 156 en terme fonctionnel, sur le nerf crânien spinal\ncf 156\n``aide``\nPlacement : 1 doigt sur la comissure des lèvres, un doigt sur le 17, on se place au milieu et on remonte un peu au dessus"
   },
   {
     "point": "236",
@@ -393,7 +393,7 @@ var points = [
     "indications": "Rétention d’eau",
     "contraindications": "",
     "coordinates": "",
-    "notes": "236 : IG : point feu : asséchant\n\ncf formule rétention d'eau\n\nPlacement : 236 ne touche pas la peau de la lèvre. Détecteur à plat sous la lèvre, sur la peau du visage, et on pointe."
+    "notes": "236 : IG : point feu : asséchant\ncf formule rétention d'eau\nPlacement : 236 ne touche pas la peau de la lèvre. Détecteur à plat sous la lèvre, sur la peau du visage, et on pointe."
   },
   {
     "point": "127",
@@ -402,7 +402,7 @@ var points = [
     "indications": "Insomnie\nTranspiration des mains et des pieds\nAsthénie générale\nFatigue nerveuse\nAsthme\nChoc médicamenteux\nDouleur de l'épigastre\nFroid au ventre\nSyndrome d'abstinence\nIndigestion\nGastrite\nMaux de ventre\nVentre froid\nLeucorrhées\nDouleurs menstruelles\nCrise de manque des drogués\nTabagisme\nClaquement des dents (crise)\nDouleurs dentaires (maxillaire inférieur)\nDouleur au sinus maxillaire\nAffection du nerf trijumeau\nFatigue cervicale\nRigidité du cou\nFront lourd\nParalysie faciale\nSciatique\nDouleurs aux talons\nDouleurs cervicales\nTête lourde (surtout au front)\nDysenterie\nDiarrhée\nVer solitaire\nDouleurs empêchant de pencher la tête en arrière",
     "contraindications": "",
     "coordinates": "",
-    "notes": "Point le plus Yang\nTonifie le corps pour combattre la maladie\napport de la chaleur si besoin\nattention, le 127 apporte de l'énergie au corps, il peut donc faire monter la tension\n\n127 tonifie la fonction ovarienne\n127, 37 : tissus\n3, 37 : peau\n127, 103 : yang dans le cerveau : à stimuler avant une compétition, pour le recul cérébral\n127, 106 : connection avec la joie, recul émotionnel\n106, 127 : fort calment nerveux (yang dans l'autre sens) : équivalent de l'atarax\n\n50, 37, 127 : tous les points des méridiens apportent de l'énergie sans exciter\n\nPlacement : sous la ride du menton, ligne centrale"
+    "notes": "Point le plus Yang\nTonifie le corps pour combattre la maladie\napport de la chaleur si besoin\nattention, le 127 apporte de l'énergie au corps, il peut donc faire monter la tension\n127 tonifie la fonction ovarienne\n127, 37 : tissus\n3, 37 : peau\n127, 103 : yang dans le cerveau : à stimuler avant une compétition, pour le recul cérébral\n127, 106 : connection avec la joie, recul émotionnel\n106, 127 : fort calment nerveux (yang dans l'autre sens) : équivalent de l'atarax\n50, 37, 127 : tous les points des méridiens apportent de l'énergie sans exciter\nPlacement : sous la ride du menton, ligne centrale"
   },
   {
     "point": "235",
@@ -411,7 +411,7 @@ var points = [
     "indications": "Rétention d’eau",
     "contraindications": "",
     "coordinates": "",
-    "notes": "Régule la fonction du triple réchauffeur\n\nATTENTION : contre indiqué pour les femmes enceintes\n\nIntéressant en fin de grossesse pour les mouvements : aide à faire bouger le bébé\n\nPlacement : Partir du 127 et descendre jusqu'au 235"
+    "notes": "Régule la fonction du triple réchauffeur\nATTENTION : contre indiqué pour les femmes enceintes\nIntéressant en fin de grossesse pour les mouvements : aide à faire bouger le bébé\nPlacement : Partir du 127 et descendre jusqu'au 235"
   },
   {
     "point": "87",
@@ -420,7 +420,7 @@ var points = [
     "indications": "Douleur de la plante des pieds\nDouleur au niveau de la ceinture\nTraumatisme crânien\nTorticolis\nRaideur de la nuque\nFatigue cervicale\nMaux de tête\nTroubles psychiques\nInsolation\nCoup de chaleur\nRétention d'eau\nCystite\nAsthme\nProblèmes respiratoires\nSpasmophilie\nCrampes\nRègles douloureuses\nProstatisme\nImpuissance\nFrigidité\nPtôse de la vessie\nPtôse de l'utérus\nKyste ovarien\nFibrome\nIncontinence\nÉnurésie\nMictions fréquentes\nMictions nocturnes\nCalculs dans la vessie\nDouleur du bas-ventre\nIntoxications\nAsthme\nSensation d'étouffement\nFièvre\nBouffées de chaleur\nMénopause\nPieds froids",
     "contraindications": "",
     "coordinates": "",
-    "notes": "Représentant de la vessie au niveau fonctionnel\n\n124, 34, 19(ortho), 103 / 87 (connexion avec le cerveau) : quand on a envie de faire pipi et qu'on fait 3 gouttes\n\nAide à la communication avec le cerveau\n\n124, 34, 26, 103, 87 : vessie plein mais ça ne s'ouvre pas\n\n50, 37 : blocage\n\nFormule liée au stress (angoisse nocturne) : 124, 34, 103 (distance cérébrale), 106 (distance émotionnelle), 300 (reins), 0, 85, 87\n\nPlacement : main sous le menton, à mi distance du 127 et de la main, sur la ligne centrale"
+    "notes": "Représentant de la vessie au niveau fonctionnel\n124, 34, 19(ortho), 103 / 87 (connexion avec le cerveau) : quand on a envie de faire pipi et qu'on fait 3 gouttes\nAide à la communication avec le cerveau\n124, 34, 26, 103, 87 : vessie plein mais ça ne s'ouvre pas\n50, 37 : blocage\nFormule liée au stress (angoisse nocturne) : 124, 34, 103 (distance cérébrale), 106 (distance émotionnelle), 300 (reins), 0, 85, 87\nPlacement : main sous le menton, à mi distance du 127 et de la main, sur la ligne centrale"
   },
   {
     "point": "22",
@@ -429,7 +429,7 @@ var points = [
     "indications": "Diarrhée\nDysenterie\nDouleurs dentaires surtout maxillaire inférieur\nFlatulences\nDigestion difficile\nDouleurs d'estomac\nCystite (associé au 17)\nDescente de l'organe vessie\nDescente de l'organe utérus\nAsthme\nRègles trop abondantes\nRègles irrégulières\nLeucorrhées\nDifficulté à uriner\nFatigue, asthénie\nApathie\nMictions difficiles\nDouleurs au coccyx\nDouleur due à une sciatique\nNez bouché\nInflammation du col de l'utérus",
     "contraindications": "",
     "coordinates": "",
-    "notes": "LIGNE ENERGETIQUE : 22, 127, 19, 1 :\nPoint IG : apporte du feu (le 127 est + fort).\non envoie du yang dans le point le plus yang : 127 \nenvoi côté énergétique vers le 19, puis du 19 vers le 1\n\n22, 127 à stimuler seulement si quelqu'un à de la tension arterielle\n\nPlacement mains sous le menton mi distance 127, 187: doigt sur le 87, juste en dessous de la moitié entre 127 et 87"
+    "notes": "LIGNE ENERGETIQUE : 22, 127, 19, 1 :\nPoint IG : apporte du feu (le 127 est + fort).\non envoie du yang dans le point le plus yang : 127 \nenvoi côté énergétique vers le 19, puis du 19 vers le 1\n22, 127 à stimuler seulement si quelqu'un à de la tension arterielle\nPlacement mains sous le menton mi distance 127, 187: doigt sur le 87, juste en dessous de la moitié entre 127 et 87"
   },
   {
     "point": "85",
@@ -438,7 +438,7 @@ var points = [
     "indications": "Bouffées de chaleur\nHypertension\nRétention d'eau\noedème\nCellulite \nAffections de la vessie\nCalculs dans l'uretère\nAcouphènes\nCalculs rénaux\nMictions troubles\nMictions insuffisantes\nCystite\nToux sèche\nSécheresse du nez\nExcès de cholestérol\nTabagisme\nAlcoolisme\nDrogue\nIntoxications\nAsthme\nDouleurs de l'auriculaire\nProblème de l'auriculaire\nDouleurs au mollet\nBrûlure par eau chaude",
     "contraindications": "",
     "coordinates": "",
-    "notes": "Représentant de l'uretère\n85, 87 : angoisse nocturne\n\ncalcul rein : stimuler la zone de l'uretère\n\nPlacement : jonction entre l'interieur de la commissure des lèvres et le changement de peau (pas sur le 236)\nfaire glisser jusqu'à la commissure des lèvres, descendre de la commissure vers les doigts."
+    "notes": "Représentant de l'uretère\n85, 87 : angoisse nocturne\ncalcul rein : stimuler la zone de l'uretère\nPlacement : jonction entre l'interieur de la commissure des lèvres et le changement de peau (pas sur le 236)\nfaire glisser jusqu'à la commissure des lèvres, descendre de la commissure vers les doigts."
   },
   {
     "point": "6",
@@ -447,7 +447,7 @@ var points = [
     "indications": "Crampes\nFatigue physique\nHypotension\nTroubles oculaires\nVision trouble",
     "contraindications": "Hypertension",
     "coordinates": "",
-    "notes": "Eclaircit la vision.\nHypertenseur\n\nPlacement : attention, dépend de la taille des lèvres, des yeux, rapprochés ou non. 85 et 6 peuvent être plus ou moins éloignés.\npoint situé plus bas que la commissure des lèvres, plus haut que la fin du bas de la lèvre.\nle majeur glisse à la verticale au milieu de l'iris jusqu'à la commissure des lèvres, l'index est sous le changement de peau. \nOn appuie sur ce bloc peau. On place le détecteur au milieu, changement d'angle, le 1er point qui pique, c'est le 6. \nSi on va jusqu'à toucher l'index, c'est le mauvais point (le 85);"
+    "notes": "Eclaircit la vision.\nHypertenseur\nPlacement : attention, dépend de la taille des lèvres, des yeux, rapprochés ou non. 85 et 6 peuvent être plus ou moins éloignés.\npoint situé plus bas que la commissure des lèvres, plus haut que la fin du bas de la lèvre.\nle majeur glisse à la verticale au milieu de l'iris jusqu'à la commissure des lèvres, l'index est sous le changement de peau. \nOn appuie sur ce bloc peau. On place le détecteur au milieu, changement d'angle, le 1er point qui pique, c'est le 6. \nSi on va jusqu'à toucher l'index, c'est le mauvais point (le 85);"
   },
   {
     "point": "156",
@@ -456,7 +456,7 @@ var points = [
     "indications": "Crampes au mollet\nDouleurs aux jambes\nDouleurs aux genoux\nDouleurs aux épaules\nDouleurs dans la région des sourcils\nDouleurs ovariennes\nDouleurs à la prostate\nHernie inguinale\nEntorse de la cheville\nParalysie faciale\nBlocage cervical\nTorticolis\nConstipation\nDouleurs dans la gestion pelvienne\nDouleur à l'aine\nPathologies ovariennes\nProstatisme\nImpuissance\nFrigidité\nRègles douloureuses\nArythmies cardiaques\nTachycardie\nNez bouché\nTranspiration (mains et pieds)\nHypertension",
     "contraindications": "",
     "coordinates": "",
-    "notes": "156, 7 : gonades, ensemble du système hormonal.\n\nTravail sur le nerf spinal : mouvement des muscles du cou, épaule\n156, 511 (``aide``)\n\ncirculation du sang, règles : 156, 1, 74\n\nDouleur torcicolis : stimuler directement sans les zones réflexes : 156, 30 sec de chaque côté, stimuler 3 fois .\n\nPlacement : n'est pas forcément à la fin de la ride du menton, aligné sur 64."
+    "notes": "156, 7 : gonades, ensemble du système hormonal.\nTravail sur le nerf spinal : mouvement des muscles du cou, épaule\n156, 511 (``aide``)\ncirculation du sang, règles : 156, 1, 74\nDouleur torcicolis : stimuler directement sans les zones réflexes : 156, 30 sec de chaque côté, stimuler 3 fois .\nPlacement : n'est pas forcément à la fin de la ride du menton, aligné sur 64."
   },
   {
     "point": "60",
@@ -465,7 +465,7 @@ var points = [
     "indications": "Anxiété\nPoitrine lourde\nDyspnée\nEczéma ulcéreux\nRythme cardiaque perturbé\nHypertension\nInsomnies\nAffection des nerfs intercostaux\nNévralgie faciale\nDouleurs lancinantes\nDouleurs dans le haut de l'estomac\nParesthésie, perte de sensation\nSensations d'engourdissement des membres ou des doigts\nLeucoplasie\nMal de tête situé au front\nDouleurs dans les bras\nMal au coeur\nSuites de fractures des bras\nSpasmes de la langue\nArthrose de la main\nArthrose des doigts\nMastose\nKystes au sein\nBronchite\nTabagisme\nTroubles respiratoires\nDyspnée\nAsthme\nTremblements des mains\nMaladie de Parkinson\nFatigue\nApathie\nProblèmes cardiaques\nInflammations\nArthrite des bras\nArthrite des mains\nCystite\nProblèmes urinaires\nConvalescence\nFrilosité\nCirculation sanguine\nRééquilibrer la formule sanguine\nVertiges\nMémoire défaillante\nTranspiration des mains et des pieds\nNez bouché\nGoitre\nMiction nocturne",
     "contraindications": "",
     "coordinates": "",
-    "notes": "Travail sur le rythme cardiaque : arythmie d'origine émotionnelle\n\n57 : arythmie avec hypertension\n\nRemplace le 106 : connexion avec la joie mais pas le recul émotionnel.\n\nApporte le carburant (106, 127)\n\nSans contre-indication : remplace souvent d'autres points qui apportent du carburant (50, 19)\n\nEmplacement : on bute contre l'os de l'oeil sur cette ligne (poignet mme Yin, tête de rodin), trou de l'oeil en bas (73) : ligne : rencontre. Le 60 est dans une petite dépression."
+    "notes": "Travail sur le rythme cardiaque : arythmie d'origine émotionnelle\n57 : arythmie avec hypertension\nRemplace le 106 : connexion avec la joie mais pas le recul émotionnel.\nApporte le carburant (106, 127)\nSans contre-indication : remplace souvent d'autres points qui apportent du carburant (50, 19)\nEmplacement : on bute contre l'os de l'oeil sur cette ligne (poignet mme Yin, tête de rodin), trou de l'oeil en bas (73) : ligne : rencontre. Le 60 est dans une petite dépression."
   },
   {
     "point": "0",
@@ -474,7 +474,7 @@ var points = [
     "indications": "Fatigue (aide à dormir car calme)\nAsthénie\nLibido faible\nÉjaculation précoce\nHypertension\nHypotension\nDouleurs lombaires\nÉruptions cutanées\nSudation des mains et/ou des pieds\nTachycardie\nAffections des oreilles (surdité, bourdonnement, otite)\nAffections des yeux (problèmes de vue)\nAffections du nez (coup de froid, rhume, sinusite)\nAllergies\nTabagisme\nMictions fréquentes\nChocs médicamenteux\nDésintoxication\nSciatique\nParalysie\nIndigestion\nDouleurs d'estomac\nLeucorrhées\nBrûlure",
     "contraindications": "Hypotension",
     "coordinates": "",
-    "notes": "Point 0 : énergie des reins\naide le corps à ne pas tomber dans la chronicité\n\nLié à 300 pour augmenter l'énergie des reins\n\n61, 0 : dilatation, contraction musculaire du col de l'utérus \n\nDéfatigue le corps.\n\nLe point 0 ne termine pas forcément une formule pour le chronique\nLe point 0 fait un reset si on fait une bétise ? NON Il fixe la douleur sur son vrai lieu d'origine, en stimulant 30 secondes.\n\nPour les douleurs diffuses, informations parasitées par une douleur qui se déplace\n\nPlacement : le point 0 est situé sur le visage. \nAttention, sur le pont du tragus\nAttention à la taille du cartilage"
+    "notes": "Point 0 : énergie des reins\naide le corps à ne pas tomber dans la chronicité\nLié à 300 pour augmenter l'énergie des reins\n61, 0 : dilatation, contraction musculaire du col de l'utérus \nDéfatigue le corps.\nLe point 0 ne termine pas forcément une formule pour le chronique\nLe point 0 fait un reset si on fait une bétise ? NON Il fixe la douleur sur son vrai lieu d'origine, en stimulant 30 secondes.\nPour les douleurs diffuses, informations parasitées par une douleur qui se déplace\nPlacement : le point 0 est situé sur le visage. \nAttention, sur le pont du tragus\nAttention à la taille du cartilage"
   },
   {
     "point": "57",
@@ -483,7 +483,7 @@ var points = [
     "indications": "Goitre bénin\nTachycardie\nRespiration difficile\nRage de dent\nNez bouché\nTête lourde\nHypertension\nÉtat éthylique",
     "contraindications": "Hypotension",
     "coordinates": "",
-    "notes": "Arythmie côté hypertendu\n57- (à gauche) : bon sur l'effet gueule de bois\nTravail sur la douleur dentaire\n57 avec 61, 43, 188, 26, 14\n\nPlacement : tragus : buter vers l'oreille en changeant d'angle"
+    "notes": "Arythmie côté hypertendu\n57- (à gauche) : bon sur l'effet gueule de bois\nTravail sur la douleur dentaire\n57 avec 61, 43, 188, 26, 14\nPlacement : tragus : buter vers l'oreille en changeant d'angle"
   },
   {
     "point": "16",
@@ -492,7 +492,7 @@ var points = [
     "indications": "Excès de larmes\nTranspiration excessive des mains et des pieds\nSécrétions nasales\nDouleurs odontalgiques\nConjonctivite\nTensions du cou\nTensions de la nuque\nTensions des épaules\nAffections des yeux\nHémorragie interne et externe\nInsomnie\nFièvre\nRhume\nHypertension oculaire douloureuse\nHypertension\nMaux de tête\nMaux de dents\nDouleurs orbitales\nDouleurs cervicales\nPiqûres d'insectes\nBlocage des bras",
     "contraindications": "Hypotenseur",
     "coordinates": "",
-    "notes": "Fait baisser la tension arterielle\nanti hémorragique, anti inflammatoire dans la zone réflexe où il se trouve\n\ntest saignement de nez \n0, 61 : dilatation du col\n0, 61, 16 : contrôle des liquide : hémorragie de la délivrance\nfait baisser la temérature du corps, avec le 61.\n16, 3, 61 : régule et assouplit le liquide sanguin\n\nForts hypotenseurs : 16, 14, 8, 143, 26, 57\nFaibles hypotenseurs : 3, 124"
+    "notes": "Fait baisser la tension arterielle\nanti hémorragique, anti inflammatoire dans la zone réflexe où il se trouve\ntest saignement de nez \n0, 61 : dilatation du col\n0, 61, 16 : contrôle des liquide : hémorragie de la délivrance\nfait baisser la temérature du corps, avec le 61.\n16, 3, 61 : régule et assouplit le liquide sanguin\nForts hypotenseurs : 16, 14, 8, 143, 26, 57\nFaibles hypotenseurs : 3, 124"
   },
   {
     "point": "14",
@@ -511,7 +511,7 @@ var zones = {};
 points.forEach(x => {x.zones.split(/\s*\n/).forEach(z => {if (zones[z]) {zones[z].push(x.point)} else {zones[z] = [x.point]}})})
 var zonesList = Object.keys(zones).sort();
 var effects = {};
-points.forEach(x => {x.effects.split(/\s*\n/).forEach(z => {if (effects[z]) {effects[z].push(x.point)} else {effects[z] = [x.point]}})})
+points.forEach(x => {if (x.effects) x.effects.split(/\s*\n/).forEach(z => {if (effects[z]) {effects[z].push(x.point)} else {effects[z] = [x.point]}})})
 var effectsList = Object.keys(effects).sort();
 var indications = {};
 points.forEach(x => x.indications.split(/\s*\n/).forEach(z => {if (indications[z]) {indications[z].push(x.point)} else {indications[z] = [x.point]}}))
